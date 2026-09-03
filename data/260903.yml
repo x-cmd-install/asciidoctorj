@@ -1,11 +1,13 @@
 about:
-  description: :coffee: Java bindings for Asciidoctor. Asciidoctor on the JVM!
+  description:
+  |
+    :coffee: Java bindings for Asciidoctor. Asciidoctor on the JVM!
   license: Apache-2.0
   homepage: http://asciidoctor.org
   head: e0af807
   archived: false
   latestVersion: v3.0.1
-  collectedAt: 2026-09-03T05:14:57Z
+  collectedAt: 2026-09-03T22:36:17Z
 timeline:
   created: 2013-03-18
   lastCommit: 2025-11-06
@@ -29,7 +31,7 @@ language:
   Makefile: 321
   Slim: 25
   Haml: 16
-totalLine: 1213087
+totalBytes: 1213087
 recent:
   last30d:
     since: 2026-08-04
