@@ -7,7 +7,7 @@ about:
   head: e0af807
   archived: false
   latestVersion: v3.0.1
-  collectedAt: 2026-09-04T20:13:44Z
+  collectedAt: 2026-09-04T20:27:37Z
 timeline:
   created: 2013-03-18
   lastCommit: 2025-11-06
@@ -90,7 +90,7 @@ total:
   commit: 1818
 ---
 path: /home/runner/.x-repo/github.com/asciidoctor/asciidoctorj
-collectedAt: 2026-09-04T20:13:45Z
+collectedAt: 2026-09-04T20:27:38Z
 loc:
   Java:
     code: 19211
