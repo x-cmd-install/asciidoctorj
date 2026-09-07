@@ -5,7 +5,7 @@ about:
   head: e0af807
   archived: false
   latestVersion: "v3.0.1"
-  collectedAt: 2026-09-07T05:28:22Z
+  collectedAt: 2026-09-07T18:57:46Z
 timeline:
   created: 2013-03-18
   lastCommit: 2025-11-06
@@ -88,7 +88,7 @@ total:
   commit: 1818
 ---
 path: /home/runner/.x-repo/github.com/asciidoctor/asciidoctorj
-collectedAt: 2026-09-07T05:28:23Z
+collectedAt: 2026-09-07T18:57:48Z
 loc:
   Java:
     code: 19211
@@ -279,7 +279,7 @@ checks:
       - 'Warn: 0 commits out of 27 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:28:24+00:00
+  collectedAt: 2026-09-07T18:57:49+00:00
   platform:
     darwin/arm64:
       name:  null
