@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.0.1"
   latestRelease: "v3.0.1"
   latestPrerelease: "v3.0.0-beta.1"
-  collectedAt: 2026-09-11T05:42:28Z
+  collectedAt: 2026-09-11T19:17:08Z
 timeline:
   created: 2013-03-18
   lastCommit: 2025-11-06
@@ -92,7 +92,7 @@ total:
   commit: 1818
 ---
 path: /home/runner/.x-repo/github.com/asciidoctor/asciidoctorj
-collectedAt: 2026-09-11T05:42:30Z
+collectedAt: 2026-09-11T19:17:10Z
 loc:
   Java:
     code: 19211
