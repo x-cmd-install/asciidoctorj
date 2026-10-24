@@ -14,13 +14,13 @@ x install asciidoctorj
 
 ## Code insight
 
-Total: **30,100** lines of code across **534** files in the top 5 languages.
+Total: **30,166** lines of code across **541** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 19,261 | 3,194 | 5,584 | 322 |
-| AsciiDoc | 4,312 | 34 | 1,359 | 141 |
-| Groovy | 3,529 | 73 | 1,136 | 60 |
+| Java | 19,305 | 3,242 | 5,593 | 328 |
+| AsciiDoc | 4,316 | 34 | 1,362 | 141 |
+| Groovy | 3,547 | 73 | 1,143 | 61 |
 | Ruby | 2,400 | 59 | 49 | 10 |
 | Css | 166 | 11 | 30 | 1 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.0.1` (2025-11-07)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 602 · **Open PRs**: 7 · **Closed issues**: 539 · **Open issues**: 141 · **Commits**: 1820
+- **Releases**: 52 · **Merged PRs**: 603 · **Open PRs**: 6 · **Closed issues**: 540 · **Open issues**: 140 · **Commits**: 1821
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 2 | 3 | 2 | 8 | 2 |
-| last60d | 2026-08-24 | 0 | 2 | 3 | 2 | 8 | 2 |
-| 90d | 2026-07-25 | 0 | 2 | 3 | 2 | 8 | 2 |
-| last180d | 2026-04-26 | 0 | 2 | 3 | 2 | 9 | 2 |
-| 360d | 2025-10-28 | 1 | 5 | 3 | 2 | 12 | 5 |
-| last720d | 2024-11-02 | 1 | 14 | 4 | 12 | 19 | 14 |
+| 30d | 2026-09-24 | 0 | 3 | 2 | 3 | 7 | 3 |
+| last60d | 2026-08-25 | 0 | 3 | 2 | 3 | 7 | 3 |
+| 90d | 2026-07-26 | 0 | 3 | 2 | 3 | 7 | 3 |
+| last180d | 2026-04-27 | 0 | 3 | 2 | 3 | 8 | 3 |
+| 360d | 2025-10-29 | 1 | 6 | 2 | 3 | 11 | 6 |
+| last720d | 2024-11-03 | 1 | 15 | 3 | 13 | 18 | 15 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for asciidoctorj lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:34:49Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:22:17Z._
