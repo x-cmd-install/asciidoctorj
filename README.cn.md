@@ -30,7 +30,7 @@ x install asciidoctorj
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -47,22 +47,22 @@ x install asciidoctorj
 
 ## 流行度
 
-- **Star**: 673 · **Fork**: 178 · **开放 issue**: 682 · **贡献者**: 104
+- **Star**: 673 · **Fork**: 179 · **开放 issue**: 682 · **贡献者**: 104
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 604 · **开放 PR**: 6 · **已关闭 issue**: 541 · **开放 issue**: 141 · **提交数**: 1822
+- **发布数**: 52 · **已合并 PR**: 604 · **开放 PR**: 7 · **已关闭 issue**: 541 · **开放 issue**: 141 · **提交数**: 1822
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 4 | 2 | 4 | 8 | 4 |
-| last60d | 2026-08-28 | 0 | 4 | 2 | 4 | 8 | 4 |
-| 90d | 2026-07-29 | 0 | 4 | 2 | 4 | 8 | 4 |
-| last180d | 2026-04-30 | 0 | 4 | 2 | 4 | 9 | 4 |
-| 360d | 2025-11-01 | 1 | 6 | 2 | 4 | 12 | 5 |
-| last720d | 2024-11-06 | 1 | 16 | 3 | 14 | 19 | 16 |
+| 30d | 2026-09-28 | 0 | 4 | 3 | 4 | 8 | 4 |
+| last60d | 2026-08-29 | 0 | 4 | 3 | 4 | 8 | 4 |
+| 90d | 2026-07-30 | 0 | 4 | 3 | 4 | 8 | 4 |
+| last180d | 2026-05-01 | 0 | 4 | 3 | 4 | 9 | 4 |
+| 360d | 2025-11-02 | 1 | 6 | 3 | 4 | 12 | 5 |
+| last720d | 2024-11-07 | 1 | 16 | 4 | 14 | 19 | 16 |
 
 ## 发行版状态
 
@@ -82,4 +82,4 @@ asciidoctorj 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:58:27Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T06:25:06Z._
