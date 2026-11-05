@@ -14,23 +14,23 @@ x install asciidoctorj
 
 ## Code insight
 
-Total: **30,229** lines of code across **542** files in the top 5 languages.
+Total: **30,230** lines of code across **542** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 19,356 | 3,247 | 5,607 | 329 |
-| AsciiDoc | 4,328 | 34 | 1,370 | 141 |
+| Java | 19,356 | 3,247 | 5,604 | 329 |
+| AsciiDoc | 4,333 | 34 | 1,372 | 141 |
 | Groovy | 3,547 | 73 | 1,143 | 61 |
 | Ruby | 2,400 | 59 | 49 | 10 |
 | Css | 166 | 11 | 30 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
+- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.0.1` (2025-11-07)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 606 · **Open PRs**: 5 · **Closed issues**: 543 · **Open issues**: 139 · **Commits**: 1825
+- **Releases**: 52 · **Merged PRs**: 607 · **Open PRs**: 4 · **Closed issues**: 543 · **Open issues**: 139 · **Commits**: 1826
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 6 | 1 | 6 | 6 | 7 |
-| last60d | 2026-09-05 | 0 | 6 | 1 | 6 | 6 | 7 |
-| 90d | 2026-08-06 | 0 | 6 | 1 | 6 | 6 | 7 |
-| last180d | 2026-05-08 | 0 | 6 | 1 | 6 | 7 | 7 |
-| 360d | 2025-11-09 | 0 | 6 | 1 | 6 | 10 | 7 |
-| last720d | 2024-11-14 | 1 | 18 | 2 | 16 | 17 | 19 |
+| 30d | 2026-10-06 | 0 | 6 | 1 | 6 | 6 | 8 |
+| last60d | 2026-09-06 | 0 | 6 | 1 | 6 | 6 | 8 |
+| 90d | 2026-08-07 | 0 | 6 | 1 | 6 | 6 | 8 |
+| last180d | 2026-05-09 | 0 | 6 | 1 | 6 | 7 | 8 |
+| 360d | 2025-11-10 | 0 | 6 | 1 | 6 | 10 | 8 |
+| last720d | 2024-11-15 | 1 | 19 | 1 | 16 | 17 | 20 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for asciidoctorj lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:17:36Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:29:52Z._

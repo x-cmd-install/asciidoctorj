@@ -14,23 +14,23 @@ x install asciidoctorj
 
 ## 代码洞察
 
-合计: **30,229** 行代码（覆盖前 5 种语言、共 **542** 个文件）。
+合计: **30,230** 行代码（覆盖前 5 种语言、共 **542** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Java | 19,356 | 3,247 | 5,607 | 329 |
-| AsciiDoc | 4,328 | 34 | 1,370 | 141 |
+| Java | 19,356 | 3,247 | 5,604 | 329 |
+| AsciiDoc | 4,333 | 34 | 1,372 | 141 |
 | Groovy | 3,547 | 73 | 1,143 | 61 |
 | Ruby | 2,400 | 59 | 49 | 10 |
 | Css | 166 | 11 | 30 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.4 / 10**
+总评分: **4.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
+- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -43,7 +43,7 @@ x install asciidoctorj
 ## 发布
 
 - **最新版本**: `v3.0.1` (2025-11-07)
-- **最近提交**: 2026-10-31
+- **最近提交**: 2026-11-04
 
 ## 流行度
 
@@ -51,18 +51,18 @@ x install asciidoctorj
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 606 · **开放 PR**: 5 · **已关闭 issue**: 543 · **开放 issue**: 139 · **提交数**: 1825
+- **发布数**: 52 · **已合并 PR**: 607 · **开放 PR**: 4 · **已关闭 issue**: 543 · **开放 issue**: 139 · **提交数**: 1826
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 6 | 1 | 6 | 6 | 7 |
-| last60d | 2026-09-05 | 0 | 6 | 1 | 6 | 6 | 7 |
-| 90d | 2026-08-06 | 0 | 6 | 1 | 6 | 6 | 7 |
-| last180d | 2026-05-08 | 0 | 6 | 1 | 6 | 7 | 7 |
-| 360d | 2025-11-09 | 0 | 6 | 1 | 6 | 10 | 7 |
-| last720d | 2024-11-14 | 1 | 18 | 2 | 16 | 17 | 19 |
+| 30d | 2026-10-06 | 0 | 6 | 1 | 6 | 6 | 8 |
+| last60d | 2026-09-06 | 0 | 6 | 1 | 6 | 6 | 8 |
+| 90d | 2026-08-07 | 0 | 6 | 1 | 6 | 6 | 8 |
+| last180d | 2026-05-09 | 0 | 6 | 1 | 6 | 7 | 8 |
+| 360d | 2025-11-10 | 0 | 6 | 1 | 6 | 10 | 8 |
+| last720d | 2024-11-15 | 1 | 19 | 1 | 16 | 17 | 20 |
 
 ## 发行版状态
 
@@ -82,4 +82,4 @@ asciidoctorj 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:17:37Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:29:52Z._
