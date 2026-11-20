@@ -1,10 +1,3 @@
-- repo: chocolatey
-  binname: asciidoctorj
-  visiblename: AsciidoctorJ (Install)
-  version: 2.5.13
-  origversion: null
-  status: outdated
-  summary: Java wrapper for AsciiDoctor.
 - repo: homebrew
   srcname: asciidoctorj
   visiblename: asciidoctorj
@@ -12,6 +5,35 @@
   origversion: null
   status: newest
   summary: Java wrapper and bindings for Asciidoctor
+- repo: nix_stable_25_05
+  srcname: asciidoctorj
+  visiblename: asciidoctorj
+  version: 3.0.0
+  origversion: null
+  status: outdated
+  summary: Official library for running Asciidoctor on the JVM
+  maintainers:
+    - moaxcp@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: asciidoctorj
+  visiblename: asciidoctorj
+  version: 3.0.0
+  origversion: null
+  status: outdated
+  summary: Official library for running Asciidoctor on the JVM
+  maintainers:
+    - moaxcp@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: asciidoctorj
+  visiblename: AsciidoctorJ (Install)
+  version: 2.5.13
+  origversion: null
+  status: outdated
+  summary: Java wrapper for AsciiDoctor.
 - repo: macports
   srcname: textproc/asciidoctorj
   binname: asciidoctorj
@@ -31,28 +53,6 @@
   srcname: asciidoctorj
   visiblename: asciidoctorj
   version: 2.5.12
-  origversion: null
-  status: outdated
-  summary: Official library for running Asciidoctor on the JVM
-  maintainers:
-    - moaxcp@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: asciidoctorj
-  visiblename: asciidoctorj
-  version: 3.0.0
-  origversion: null
-  status: outdated
-  summary: Official library for running Asciidoctor on the JVM
-  maintainers:
-    - moaxcp@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: asciidoctorj
-  visiblename: asciidoctorj
-  version: 3.0.0
   origversion: null
   status: outdated
   summary: Official library for running Asciidoctor on the JVM
@@ -100,7 +100,7 @@
     - asciidoctorj
   visiblename: asciidoctorj
   version: 3.0.1
-  origversion: 3.0.1-1
+  origversion: 3.0.1-2
   status: newest
   summary: AsciidoctorJ implementation used by Gradle's documentation build
   maintainers:
