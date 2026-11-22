@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.0.1` (2025-11-07)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 633 · **Open PRs**: 5 · **Closed issues**: 552 · **Open issues**: 145 · **Commits**: 1846
+- **Releases**: 52 · **Merged PRs**: 634 · **Open PRs**: 4 · **Closed issues**: 553 · **Open issues**: 144 · **Commits**: 1847
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 27 | 3 | 6 | 11 | 0 |
-| last60d | 2026-09-22 | 0 | 32 | 3 | 15 | 12 | 0 |
-| 90d | 2026-08-23 | 0 | 32 | 3 | 15 | 12 | 0 |
-| last180d | 2026-05-25 | 0 | 32 | 3 | 15 | 12 | 0 |
-| 360d | 2025-11-26 | 0 | 32 | 3 | 15 | 16 | 0 |
-| last720d | 2024-12-01 | 1 | 44 | 3 | 24 | 23 | 39 |
+| 30d | 2026-10-23 | 0 | 28 | 2 | 7 | 10 | 25 |
+| last60d | 2026-09-23 | 0 | 33 | 2 | 16 | 11 | 29 |
+| 90d | 2026-08-24 | 0 | 33 | 2 | 16 | 11 | 29 |
+| last180d | 2026-05-26 | 0 | 33 | 2 | 16 | 11 | 29 |
+| 360d | 2025-11-27 | 0 | 33 | 2 | 16 | 15 | 29 |
+| last720d | 2024-12-02 | 1 | 45 | 2 | 25 | 22 | 40 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for asciidoctorj lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:06:07Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:23:35Z._
