@@ -26,13 +26,13 @@ x install asciidoctorj
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **4.2 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install asciidoctorj
 
 ## 流行度
 
-- **Star**: 674 · **Fork**: 180 · **开放 issue**: 697 · **贡献者**: 105
+- **Star**: 674 · **Fork**: 180 · **开放 issue**: 698 · **贡献者**: 104
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 634 · **开放 PR**: 4 · **已关闭 issue**: 553 · **开放 issue**: 144 · **提交数**: 1849
+- **发布数**: 52 · **已合并 PR**: 633 · **开放 PR**: 5 · **已关闭 issue**: 553 · **开放 issue**: 145 · **提交数**: 1849
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 28 | 2 | 6 | 10 | 27 |
-| last60d | 2026-09-24 | 0 | 33 | 2 | 16 | 11 | 31 |
-| 90d | 2026-08-25 | 0 | 33 | 2 | 16 | 11 | 31 |
-| last180d | 2026-05-27 | 0 | 33 | 2 | 16 | 11 | 31 |
-| 360d | 2025-11-28 | 0 | 33 | 2 | 16 | 15 | 31 |
-| last720d | 2024-12-03 | 1 | 45 | 2 | 25 | 22 | 42 |
+| 30d | 2026-10-25 | 0 | 26 | 3 | 6 | 10 | 26 |
+| last60d | 2026-09-25 | 0 | 32 | 3 | 16 | 12 | 30 |
+| 90d | 2026-08-26 | 0 | 32 | 3 | 16 | 12 | 30 |
+| last180d | 2026-05-28 | 0 | 32 | 3 | 16 | 12 | 30 |
+| 360d | 2025-11-29 | 0 | 32 | 3 | 16 | 16 | 30 |
+| last720d | 2024-12-04 | 1 | 44 | 3 | 25 | 23 | 42 |
 
 ## 发行版状态
 
@@ -82,4 +82,4 @@ asciidoctorj 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T09:35:14Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:57:55Z._

@@ -26,13 +26,13 @@ Total: **109,138** lines of code across **960** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 674 · **Forks**: 180 · **Open issues**: 697 · **Contributors**: 105
+- **Stars**: 674 · **Forks**: 180 · **Open issues**: 698 · **Contributors**: 104
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 634 · **Open PRs**: 4 · **Closed issues**: 553 · **Open issues**: 144 · **Commits**: 1849
+- **Releases**: 52 · **Merged PRs**: 633 · **Open PRs**: 5 · **Closed issues**: 553 · **Open issues**: 145 · **Commits**: 1849
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 28 | 2 | 6 | 10 | 27 |
-| last60d | 2026-09-24 | 0 | 33 | 2 | 16 | 11 | 31 |
-| 90d | 2026-08-25 | 0 | 33 | 2 | 16 | 11 | 31 |
-| last180d | 2026-05-27 | 0 | 33 | 2 | 16 | 11 | 31 |
-| 360d | 2025-11-28 | 0 | 33 | 2 | 16 | 15 | 31 |
-| last720d | 2024-12-03 | 1 | 45 | 2 | 25 | 22 | 42 |
+| 30d | 2026-10-25 | 0 | 26 | 3 | 6 | 10 | 26 |
+| last60d | 2026-09-25 | 0 | 32 | 3 | 16 | 12 | 30 |
+| 90d | 2026-08-26 | 0 | 32 | 3 | 16 | 12 | 30 |
+| last180d | 2026-05-28 | 0 | 32 | 3 | 16 | 12 | 30 |
+| 360d | 2025-11-29 | 0 | 32 | 3 | 16 | 16 | 30 |
+| last720d | 2024-12-04 | 1 | 44 | 3 | 25 | 23 | 42 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for asciidoctorj lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:35:14Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:57:54Z._
