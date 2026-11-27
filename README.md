@@ -14,15 +14,15 @@ x install asciidoctorj
 
 ## Code insight
 
-Total: **109,140** lines of code across **960** files in the top 5 languages.
+Total: **110,112** lines of code across **970** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 98,840 | 11,256 | 16,397 | 680 |
+| Java | 99,640 | 11,579 | 16,457 | 688 |
 | AsciiDoc | 6,414 | 185 | 1,869 | 256 |
 | Ruby | 2,524 | 84 | 70 | 16 |
 | Css | 648 | 15 | 30 | 5 |
-| Sh | 190 | 133 | 47 | 3 |
+| Json | 316 | 0 | 0 | 5 |
 
 ## OpenSSF Scorecard
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.0.1` (2025-11-07)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 634 · **Open PRs**: 4 · **Closed issues**: 554 · **Open issues**: 144 · **Commits**: 1850
+- **Releases**: 52 · **Merged PRs**: 636 · **Open PRs**: 4 · **Closed issues**: 555 · **Open issues**: 143 · **Commits**: 1852
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 27 | 2 | 7 | 9 | 27 |
-| last60d | 2026-09-27 | 0 | 33 | 2 | 17 | 11 | 31 |
-| 90d | 2026-08-28 | 0 | 33 | 2 | 17 | 11 | 31 |
-| last180d | 2026-05-30 | 0 | 33 | 2 | 17 | 11 | 31 |
-| 360d | 2025-12-01 | 0 | 33 | 2 | 17 | 14 | 31 |
-| last720d | 2024-12-06 | 1 | 45 | 2 | 26 | 22 | 43 |
+| 30d | 2026-10-28 | 0 | 29 | 2 | 8 | 8 | 29 |
+| last60d | 2026-09-28 | 0 | 35 | 2 | 18 | 10 | 33 |
+| 90d | 2026-08-29 | 0 | 35 | 2 | 18 | 10 | 33 |
+| last180d | 2026-05-31 | 0 | 35 | 2 | 18 | 10 | 33 |
+| 360d | 2025-12-02 | 0 | 35 | 2 | 18 | 13 | 33 |
+| last720d | 2024-12-07 | 1 | 47 | 2 | 27 | 21 | 45 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for asciidoctorj lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:29:54Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:06:09Z._
